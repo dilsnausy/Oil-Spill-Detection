@@ -4,7 +4,7 @@ This project provides an automated system to detect and map marine oil spills. B
 
 
 ## Team Members
-* Yerassyl Kaiyrkanov, Sultan Margulan, Nurlan Boranbay, Lazzat Zhengissova, Baglan Zhubatkanov
+* Yerassyl Kaiyrkanov, Sultan Margulan, Nurlan Boranbay, Lazzat Zhengissova, Baglan Zhubatkanov, Ismail Zaukenkhazhy
 * **Project Advisor:** Siamac Fazli
 
 
